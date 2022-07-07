@@ -1,7 +1,7 @@
 - 👋 Hi, we are Kryptwave Technologies Private Limited
 - 👀 We are interested in Crypto related payments
 - 💞️ We looking for capable engineers skilled in web technologies
-- 📫 How to reach us: drop a message with your detail on the Pull Request
+- 📫 How to reach us: drop a message with your detail on the Pull Request https://github.com/kryptwave/kryptwave/pull/1
 
 <!---
 kryptwave/kryptwave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
